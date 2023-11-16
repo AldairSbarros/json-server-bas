@@ -8,6 +8,15 @@
       "id": 1
     }
   ],
+
+  "animals":[
+    {
+      "cachorro": "vira-lata"
+    },
+    {
+      "gato": "siamês"
+    }
+  ],
   "tracks": [
     {
       "id": 1,
